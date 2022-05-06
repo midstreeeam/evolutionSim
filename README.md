@@ -30,7 +30,7 @@ As showed in the picture, left part is the map of the virtual world, right part 
 
 In the middle of the right part, there is a dynamic list, which shows the Top 10 most successful geno-type and the corresponding number.
 
-<img src="\images\window.png" alt="window" style="zoom:70%;" />
+<img src="https://github.com/midstreeeam/evolutionSim/blob/main/images/window.png?raw=true" alt="window" style="zoom:70%;" />
 
 
 
