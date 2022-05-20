@@ -34,7 +34,7 @@ def normalize(num):
     # return num
     return math.tanh(num)
 
-@njit
+#@njit
 def matrix_operation(temp_matrix,signals,input_list,shape0):
     # print(signals.tolist())
     # print('loop')

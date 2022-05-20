@@ -6,7 +6,7 @@ This is the GitHub repo for project Evolution-Simulator.
 
 ### Install
 
-This project working on Python 3.6 and later version.
+This project working on Python 3.6 and later version. (If you want to run it on 3.10, you need to ban the usage of Numba)
 
 Then clone the repo and do the following
 
@@ -82,7 +82,7 @@ If you activate the refresh mode, here are several useful parameter that you mig
 
 ## About
 
-This project is a attempts on genetic algorithm and bio simulation. Related academic paper hasn’t been published yet.
+This project is a attempts on genetic algorithm and bio simulation.
 
 This project takes some ideas from [biosim4](https://github.com/davidrmiller/biosim4), but exploring more on natural evolution rather than solving man-made questions.
 
@@ -91,6 +91,4 @@ Feel free to contact me for any questions. Email: kl389@duke.edu.
 ## Demo
 
 Here is a [video demo](https://youtu.be/X7VmNgw6EXk) to show that how cells evolve intelligence after a half a million steps. 
-
-
 
