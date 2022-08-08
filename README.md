@@ -83,8 +83,9 @@ If you activate the refresh mode, here are several useful parameter that you mig
 ## About
 
 This project is a attempts on genetic algorithm and bio simulation.
+See project report [here](https://midstream.cn/blogs/biosim.html) for more details.
 
-This project takes some ideas from [biosim4](https://github.com/davidrmiller/biosim4), but exploring more on natural evolution rather than solving man-made questions.
+This project takes some ideas from [biosim4](https://github.com/davidrmiller/biosim4)(see his video [here](https://www.youtube.com/watch?v=N3tRFayqVtk)), but exploring more on natural evolution rather than solving man-made questions.
 
 Feel free to contact me for any questions. Email: kl389@duke.edu.
 
