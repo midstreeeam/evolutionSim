@@ -11,7 +11,7 @@ SHOWN_GENE_LENGTH = 70
 STEP_UPDATE_RATE = 1 # update screen every 1 frames
 
 AUTO_RESTART=True
-ERA_LENGTH = 100 # only avaliable in refresh mode
+ERA_LENGTH = 32 # only avaliable in refresh mode
 
 # math config
 MAX_NUM = 65536
@@ -28,14 +28,14 @@ GEN_CELL_RATE = 15  # generate a cell every 20 frames
 GEN_CELL_RATE = MAX_NUM # not generate new cell
 
 # death area config
-LEFTTOP = [(15,0),(0,15)] # unit is grid, not pixle
-RIGHTBOTTOM = [(49,64),(64,49)]
+# LEFTTOP = [(15,0),(0,15)] # unit is grid, not pixle
+# RIGHTBOTTOM = [(49,64),(64,49)]
 # LEFTTOP = [(0,0),(54,0),(10,0),(0,54)]
 # RIGHTBOTTOM = [(10,64),(64,64),(64,10),(64,64)]
-# LEFTTOP = [(15,0)]
-# RIGHTBOTTOM = [(49,64)]
-LEFTTOP = [(0,0)]
-RIGHTBOTTOM = [(0,0)]
+LEFTTOP = [(15,0)]
+RIGHTBOTTOM = [(49,64)]
+# LEFTTOP = [(0,0)]
+# RIGHTBOTTOM = [(0,0)]
 
 
 # bio config

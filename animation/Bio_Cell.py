@@ -34,7 +34,7 @@ class ini_Cell():
 
         return [n1,n2]
     
-    def __cut_inner_neural(self,gene_pieces:list[list[str]]):
+    def __cut_inner_neural(self,gene_pieces):
         num_exceed=False
         an=0
         bn=0
@@ -75,7 +75,7 @@ class ini_Cell():
         return gene_pieces
             
     
-    def __get_weight(self,gene_pieces:list[list[str]]):
+    def __get_weight(self,gene_pieces):
         # take gene-pair list as input
         # get random weight
         for i in range(len(gene_pieces)):
@@ -90,7 +90,7 @@ class ini_Cell():
         return gene_pieces
 
     
-    def __get_id(self,gene_pieces:list[list[str]]):
+    def __get_id(self,gene_pieces):
         # take gene-pair list as input
 
         # sensors and activators

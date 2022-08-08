@@ -34,7 +34,7 @@ def normalize(num):
     # return num
     return math.tanh(num)
 
-#@njit
+@njit
 def matrix_operation(temp_matrix,signals,input_list,shape0):
     # print(signals.tolist())
     # print('loop')
@@ -121,7 +121,7 @@ class Brain():
         self.matrix = np.array(matrix)
         pass
     
-    def set_sensors(self,sensors:list[Sensor]):
+    def set_sensors(self,sensors):
         self.sensors = sensors
 
     def __check_stop(self,input_list):
