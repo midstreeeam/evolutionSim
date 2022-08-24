@@ -85,19 +85,19 @@ CST = 'i' # contant 1
 NPFW = 'j' # next pixcel type
 SEFW = 'k' # see type
 SED = 'l' # see distance
-NPCP = 'm' # next pixcel cell/predator (haven't added yet)
-SECP = 'n' # see cell/predator (haven't added yet)
+NPCP = 'm' # next pixcel cell/predator
+SECP = 'n' # see cell/predator
 
 
 SENSORS=[RD,OS,AGE,EWL,NSL,FDEW,FDNS,RD2,CST,NPFW,SEFW,SED]
 SENSOR_NUM=len(SENSORS)
 
-# middle (neural)
+# middle (inner neural)
 AND = 'A'
 OR = 'B'
 XOR = 'C'
-EMP = 'D' # empty (ban)
-# FIL = 'E' # only value in certern range can pass
+# EMP = 'D' # empty (ban)
+FIL = 'E' # only value in certern range can pass
 
 NEURALS=[AND,OR,XOR]
 NUERAL_NUM=len(NEURALS)
@@ -105,7 +105,7 @@ NUERAL_NUM=len(NEURALS)
 NEURAL_INPUT = 0.5 # default neural input
 
 
-# output (activator)
+# output (actuator)
 MF = 'a' # move forward
 MN = 'b' # move north
 MS = 'c' # move south
