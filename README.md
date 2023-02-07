@@ -1,6 +1,7 @@
 # evolutionSim
 
 This is the GitHub repo for project Evolution-Simulator.
+[intro video](https://www.bilibili.com/video/BV18Y41117rJ/)
 
 ## Quick Start
 
