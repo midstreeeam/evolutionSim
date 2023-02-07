@@ -2,7 +2,7 @@
 
 This is the GitHub repo for project Evolution-Simulator.
 
-[intro video](https://www.bilibili.com/video/BV18Y41117rJ/)
+[intro video/中文简介视频](https://www.bilibili.com/video/BV18Y41117rJ/) (only Chinese avaliable now)
 
 ## Quick Start
 
