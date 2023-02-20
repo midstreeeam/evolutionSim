@@ -4,6 +4,8 @@ This is the GitHub repo for project Evolution-Simulator.
 
 [intro video/中文简介视频](https://www.bilibili.com/video/BV18Y41117rJ/) (only Chinese avaliable now)
 
+Following studies on this project is in repo [EvoSim](https://github.com/midstreeeam/EvoSim).
+
 ## Quick Start
 
 ### Install
